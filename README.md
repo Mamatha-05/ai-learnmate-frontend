@@ -73,6 +73,4 @@ Or right-click and open with your preferred browser.
 👩‍💻 **Developed By**
 
 Mamatha Nalagoppula
-Final Year BTech – Computer Science
-Frontend Project
 
