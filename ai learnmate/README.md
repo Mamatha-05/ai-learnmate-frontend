@@ -63,7 +63,7 @@ AI-LearnMate/
 
 Clone this repository:
 
-https://github.com/lingalashilpa/AI-LearnMate.git
+https://github.com/Mamatha-05/ai-learnmate.git
 
 Open index.html in your browser:
 
@@ -75,5 +75,6 @@ Or right-click and open with your preferred browser.
 Mamatha Nalagoppula
 Final Year BTech – Computer Science
 Frontend Project
+
 
 
